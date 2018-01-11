@@ -5,8 +5,6 @@ import com.mu.zi.contentlib.factory_method_2.PCreator;
 import com.mu.zi.contentlib.factory_method_2.Product1;
 import com.mu.zi.contentlib.factory_method_2.Product2;
 import com.mu.zi.contentlib.mediator_method_8.MediatorScene;
-import com.mu.zi.contentlib.prototype_pattern_7.PrototypePatternScene;
-import com.mu.zi.contentlib.proxy_method_6.DynamicProxyScene;
 import com.mu.zi.contentlib.single_1.Singleton;
 import com.mu.zi.contentlib.single_1.SingletonLazy;
 
