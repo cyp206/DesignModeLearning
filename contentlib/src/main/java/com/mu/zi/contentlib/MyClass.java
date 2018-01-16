@@ -1,5 +1,6 @@
 package com.mu.zi.contentlib;
 
+import com.mu.zi.contentlib.Iterator_pattern_13.IteratorScene;
 import com.mu.zi.contentlib.adapter_pattern_13.AdapterPatternScene;
 import com.mu.zi.contentlib.factory_method_2.Creator;
 import com.mu.zi.contentlib.factory_method_2.PCreator;
@@ -12,7 +13,7 @@ public class MyClass {
 
 
     public static void main(String[] args) {
-        AdapterPatternScene RequestCdhain = new AdapterPatternScene();
+        IteratorScene RequestCdhain = new IteratorScene();
     }
 
 
