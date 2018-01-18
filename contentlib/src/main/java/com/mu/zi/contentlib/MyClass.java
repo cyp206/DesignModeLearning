@@ -1,19 +1,20 @@
 package com.mu.zi.contentlib;
 
-import com.mu.zi.contentlib.Iterator_pattern_13.IteratorScene;
-import com.mu.zi.contentlib.adapter_pattern_13.AdapterPatternScene;
-import com.mu.zi.contentlib.factory_method_2.Creator;
-import com.mu.zi.contentlib.factory_method_2.PCreator;
-import com.mu.zi.contentlib.factory_method_2.Product1;
-import com.mu.zi.contentlib.factory_method_2.Product2;
-import com.mu.zi.contentlib.single_1.Singleton;
-import com.mu.zi.contentlib.single_1.SingletonLazy;
+import com.mu.zi.contentlib.p14_Iterator_pattern.IteratorScene;
+import com.mu.zi.contentlib.p15_composite_pattern.CompositePatternScene;
+import com.mu.zi.contentlib.p16_observer_pattern.ObserverScene;
+import com.mu.zi.contentlib.p2_factory_method.Creator;
+import com.mu.zi.contentlib.p2_factory_method.PCreator;
+import com.mu.zi.contentlib.p2_factory_method.Product1;
+import com.mu.zi.contentlib.p2_factory_method.Product2;
+import com.mu.zi.contentlib.p1_single.Singleton;
+import com.mu.zi.contentlib.p1_single.SingletonLazy;
 
 public class MyClass {
 
 
     public static void main(String[] args) {
-        IteratorScene RequestCdhain = new IteratorScene();
+        ObserverScene CompositePatternScene = new ObserverScene();
     }
 
 
