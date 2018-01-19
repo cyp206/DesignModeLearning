@@ -3,6 +3,7 @@ package com.mu.zi.contentlib;
 import com.mu.zi.contentlib.p14_Iterator_pattern.IteratorScene;
 import com.mu.zi.contentlib.p15_composite_pattern.CompositePatternScene;
 import com.mu.zi.contentlib.p16_observer_pattern.ObserverScene;
+import com.mu.zi.contentlib.p17_facade_pattern.FacadePatternScene;
 import com.mu.zi.contentlib.p2_factory_method.Creator;
 import com.mu.zi.contentlib.p2_factory_method.PCreator;
 import com.mu.zi.contentlib.p2_factory_method.Product1;
@@ -14,7 +15,7 @@ public class MyClass {
 
 
     public static void main(String[] args) {
-        ObserverScene CompositePatternScene = new ObserverScene();
+        FacadePatternScene CompositePatternScene = new FacadePatternScene();
     }
 
 
