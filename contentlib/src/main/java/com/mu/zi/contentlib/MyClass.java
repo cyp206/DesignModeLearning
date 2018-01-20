@@ -1,21 +1,19 @@
 package com.mu.zi.contentlib;
 
-import com.mu.zi.contentlib.p14_Iterator_pattern.IteratorScene;
-import com.mu.zi.contentlib.p15_composite_pattern.CompositePatternScene;
-import com.mu.zi.contentlib.p16_observer_pattern.ObserverScene;
-import com.mu.zi.contentlib.p17_facade_pattern.FacadePatternScene;
+import com.mu.zi.contentlib.p18_memento_pattern.MementoPatternForProperties;
+import com.mu.zi.contentlib.p18_memento_pattern.MementosPattern;
+import com.mu.zi.contentlib.p1_single.Singleton;
+import com.mu.zi.contentlib.p1_single.SingletonLazy;
 import com.mu.zi.contentlib.p2_factory_method.Creator;
 import com.mu.zi.contentlib.p2_factory_method.PCreator;
 import com.mu.zi.contentlib.p2_factory_method.Product1;
 import com.mu.zi.contentlib.p2_factory_method.Product2;
-import com.mu.zi.contentlib.p1_single.Singleton;
-import com.mu.zi.contentlib.p1_single.SingletonLazy;
 
 public class MyClass {
 
 
     public static void main(String[] args) {
-        FacadePatternScene CompositePatternScene = new FacadePatternScene();
+        MementosPattern CompositePatternScene = new MementosPattern();
     }
 
 
