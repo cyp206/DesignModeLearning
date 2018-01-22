@@ -1,7 +1,5 @@
 package com.mu.zi.contentlib;
 
-import com.mu.zi.contentlib.p18_memento_pattern.MementoPatternForProperties;
-import com.mu.zi.contentlib.p18_memento_pattern.MementosPattern;
 import com.mu.zi.contentlib.p1_single.Singleton;
 import com.mu.zi.contentlib.p1_single.SingletonLazy;
 import com.mu.zi.contentlib.p2_factory_method.Creator;
@@ -13,7 +11,7 @@ public class MyClass {
 
 
     public static void main(String[] args) {
-        MementosPattern CompositePatternScene = new MementosPattern();
+        fsd CompositePatternScene = new fsd();
     }
 
 
@@ -40,7 +38,5 @@ public class MyClass {
 
     }
 
-    public   void ss(){
 
-    }
 }
